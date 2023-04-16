@@ -15,4 +15,4 @@ members:
 - Nebula
 
 fetch: this
-new: branch
+signed: yes
